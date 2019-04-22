@@ -1,0 +1,10 @@
+[Unit]
+Description=TouchDLP service
+Before=dhcpcd.service
+
+[Service]
+WorkingDirectory=/home/pi/nextion
+ExecStart=/usr/bin/node /home/pi/nextion/bin/index.js 1> /home/pi/nextion/touch.log 2> /home/pi/nextion/touch_error.log
+
+[Install]
+WantedBy=multi-user.target

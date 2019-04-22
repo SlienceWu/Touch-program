@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/bin/plugins/nextion.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/abstract.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/nextionService.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/abstract.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/addPlate.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/bar.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/config.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/confirm.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/home.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/information.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/nooperation.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/plate.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/plates.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/printSettings.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/printingHome.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/projector.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/rom.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/setmodel.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/settings.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/slice.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/stats.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/system.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/warning.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/zAxis.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/plugins/pushBullet.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/services/nanoDlpService.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/services/utils/3D/projector.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/services/utils/3D/software-renderer.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/services/utils/stl2png.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/bin/plugins/nextion.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/abstract.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/nextionService.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/abstract.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/addPlate.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/bar.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/config.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/confirm.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/home.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/information.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/nooperation.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/plate.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/plates.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/printSettings.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/printingHome.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/projector.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/rom.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/setmodel.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/settings.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/slice.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/stats.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/system.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/warning.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/nextion/pages/zAxis.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/plugins/pushBullet.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/services/nanoDlpService.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/services/utils/3D/projector.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/services/utils/3D/software-renderer.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/services/utils/stl2png.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

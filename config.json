@@ -1,0 +1,25 @@
+{
+  "url":"http://localhost",
+  "auth":{
+    "enable":"false",
+    "user":"admin",
+    "pass":"pass"
+  },
+  "plugins":{
+    "nextion":{
+      "port":"/dev/ttyS3",
+      "sleep": 65535
+    },
+    "profiles": {
+      "selectedIdx": 0
+    },
+    "plates":{
+      "fileExt":"zip|stl",
+      "showAll":"false",
+      "autoFetch":"true"
+    },
+    "pushbullet":{
+      "apiKey":null
+    }
+  }
+}
